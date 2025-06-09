@@ -15,7 +15,7 @@ This React Native application is a job search app designed for showcasing skills
 ## 📁 Project Structure
 
 - **app**: The main directory containing the core files of the React Native application.
-  - **now**: Placeholder directory, possibly indicating the current version or iteration of the project.
+- **now**: Placeholder directory, possibly indicating the current version or iteration of the project.
 - **assets**: Store static assets, such as images, fonts, or any other non-code resources.
 - **components**: Reusable React components that contribute to the building blocks of the app.
 - **constants**: Constants and configurations used throughout the application.
